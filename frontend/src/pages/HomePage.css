@@ -1,0 +1,33 @@
+.homepage {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .description {
+    font-size: 18px;
+    margin: 20px 0;
+    line-height: 1.6;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .homepage-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .homepage-button:hover {
+    background-color: #45a049;
+  }
+  
